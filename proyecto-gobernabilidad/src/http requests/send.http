@@ -1,0 +1,7 @@
+POST https://npr3s.com/control/projects/gti-1265-1167/issues.xml?key=5c57fde2d7058e78a578c071058c1ab85db870a3
+Content-Type: application/xml
+
+<issue>
+    <subject>Prueba Grupo 3 @ {{$localDatetime 'YYYY-MM-DD'}}</subject>
+    <description>Esto es una *prueba* desde la API</description>
+</issue>
